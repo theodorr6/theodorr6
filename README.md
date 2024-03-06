@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Teodor
 - 👀 I’m interested in automation testing and software development!
-- 🌱 I’m currently learning to build creative and useful websites
+- 🌱 I’m currently learning to build automated tests using Java!
 - 📫 How to reach me : tavirjoghe@gmail.com / https://www.linkedin.com/in/teodor-virjoghe/
 
 <!---
