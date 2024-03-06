@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Teodor
-- 👀 I’m interested in web development!
+- 👀 I’m interested in automation testing and software development!
 - 🌱 I’m currently learning to build creative and useful websites
 - 📫 How to reach me : tavirjoghe@gmail.com / https://www.linkedin.com/in/teodor-virjoghe/
 
