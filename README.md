@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Teodor
 - 👀 I’m interested in automation testing and software development!
-- 🌱 I’m currently learning to build automated testing frameworks using Python with Selenium!
+- 🌱 I’m currently learning to build automated testing frameworks using Python with Selenium and PyTest!
 - 📫 How to reach me : tavirjoghe@gmail.com / https://www.linkedin.com/in/teodor-virjoghe/
 
 <!---
